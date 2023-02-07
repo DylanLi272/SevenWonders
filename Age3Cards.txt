@@ -1,0 +1,20 @@
+2 5
+gardens|{5}|WCC|0|statue|-|-|
+palace|{8}|GPLCWOS|0|-|-|-|
+pantheon|{7}|CCOGPL|0|temple|-|-|
+senate|{6}|OSWW|0|library|-|-|
+townhall|{6}|GOSS|0|-|-|-|
+3 5
+academy|&|SSSG|0|school|-|-|
+lodge|&|CCLP|0|dispensary|-|-|
+observatory|@|OOGL|0|laboratory|-|-|
+study|@|WPL|0|school|-|-|
+university|#|WWPG|0|library|-|-|
+4 3
+arsenal|XXX|OWWL|0|-|-|-|
+fortifications|XXX|SOOO|0|walls|-|-|
+siegeworkshop|XXX|WCCC|0|laboratory|-|-|
+5 3
+arena|(3){1} /^\|OSS|0|dispensary|-|-|
+haven|(1){1}/*|LOW|0|forum|-|-|
+lighthouse|(1){1}/*|GS|0|caravansery|-|-|

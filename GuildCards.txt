@@ -1,0 +1,11 @@
+6 10
+builders|[^]{1}|SSCCG|0|-|-|-|
+craftsmens|[1]{2}|OOSS|0|-|-|-|
+magistrates|[2]{1}|WWWSL|0|-|-|-|
+philosophers|[3]{1}|CCCLP|0|-|-|-|
+scientists|[&/@/#]|WWOOP|0|-|-|-|
+shipowners|[0,1,6]{1}|WWWPG|0|-|-|-|
+spies|[4]{1}|CCCG|0|-|-|-|
+strategists|[-1]{1}|OOSL|0|-|-|-|
+traders|[5]{1}|LPG|0|-|-|-|
+workers|[0]{1}|OOCSW|0|-|-|-|

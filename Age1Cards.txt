@@ -1,0 +1,27 @@
+0 6
+lumberyard|W|-|0|-|-|-|
+claypit|C/O|-|1|-|-|-|
+claypool|C|-|0|-|-|-|
+orevein|O|-|0|-|-|-|
+stonepit|S|-|0|-|-|-|
+timberyard|S/W|-|1|-|-|-|
+1 3
+glassworks|G|-|0|-|-|-|
+loom|L|-|0|-|-|-|
+press|P|-|0|-|-|-|
+2 3
+altar|{2}|-|0|-|temple|-|
+baths|{3}|S|0|-|aqueduct|-|
+theater|{2}|-|0|-|statue|-|
+3 3
+apothecary|&|L|0|-|stables|dispensary|
+scriptorium|#|P|0|-|courthouse|library|
+workshop|@|G|0|-|archeryrange|laboratory|
+4 3
+barracks|X|O|0|-|-|-|
+guardtower|X|C|0|-|-|-|
+stockade|X|W|0|-|-|-|
+5 3
+easttradingpost|1/CSOW>|-|0|-|forum|-|
+marketplace|<1/LGP>|-|0|-|caravansery|-|
+westtradingpost|<1/CSOW|-|0|-|forum|-|

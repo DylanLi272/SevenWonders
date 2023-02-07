@@ -1,0 +1,27 @@
+0 4
+brickyard|CC|-|1|-|-|-|
+foundry|OO|-|1|-|-|-|
+quarry|SS|-|1|-|-|-|
+sawmill|WW|-|1|-|-|-|
+1 3
+glassworks|G|-|0|-|-|-|
+loom|L|-|0|-|-|-|
+press|P|-|0|-|-|-|
+2 4
+aqueduct|{5}|SSS|0|baths|-|-|
+courthouse|{4}|CCL|0|scriptorium|-|-|
+statue|{4}|WOO|0|theater|gardens|-|
+temple|{3}|WCG|0|altar|pantheon|-|
+3 4
+dispensary|&|OOG|0|apothecary|arena|lodge|
+laboratory|@|CCP|0|workshop|siegeworkshop|observatory|
+library|#|SSL|0|scriptorium|senate|university|
+school|#|WP|0|-|academy|study|
+4 3
+archeryrange|XX|WCO|0|workshop|-|-|
+stables|XX|OCW|0|apothecary|-|-|
+walls|XX|SSS|0|-|-|-|
+5 3
+caravansery|C/S/O/W|WW|0|marketplace|forum|-|
+forum|L/G/P|CC|0|westtradingpost/easttradingpost|forum|-|
+vineyard|(1)[0]|-|0|-|-|-|
